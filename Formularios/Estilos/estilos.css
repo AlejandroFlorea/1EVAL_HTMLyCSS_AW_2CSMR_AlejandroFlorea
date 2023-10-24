@@ -8,6 +8,7 @@
 }
 .lapiz{
     background-image: url(/Formularios/Img/soy-ese.gif);
+    background-size: auto;
     color: black;
     font-family: 'Roboto', sans-serif;
 }
