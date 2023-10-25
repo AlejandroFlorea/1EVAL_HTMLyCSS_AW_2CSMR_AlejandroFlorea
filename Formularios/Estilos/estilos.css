@@ -13,3 +13,21 @@
     color: black;
     font-family: 'Roboto', sans-serif;
 }
+*{
+    box-sizing: border-box;
+}
+.fila:after{
+    display: flex;
+    clear: both;
+    content: "";
+}
+.izq{
+    width: 20%;
+    float: left;
+    background-color: blueviolet;
+}
+.der{
+    width: 80%;
+    float: left;
+    background-color: aqua;
+}
