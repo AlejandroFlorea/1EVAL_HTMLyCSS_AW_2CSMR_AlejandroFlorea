@@ -24,12 +24,17 @@
 .izq{
     width: 20%;
     float: left;
-    background-color: blueviolet;
+    background-color: rgb(38, 35, 41);
+}
+.soporte{
+    color: aliceblue;
 }
 .der{
-    width: 80%;
+    width: 79.7%;
     float: left;
-    background-color: aqua;
+    padding: 15px;
+    margin-left: 0.3%;
+    background-color: #EEEE;
 }
 .special{
     list-style-image: url(Img/chad2.png);
