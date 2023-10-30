@@ -58,3 +58,9 @@ html, body {
 .footer p{
     display: inline-block;
 }
+.señal1{
+    padding-left: 1%;
+}
+.señal2{
+    padding-right: 1%;
+}
