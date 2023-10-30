@@ -32,6 +32,8 @@ body{
 }
 .soporte{
     color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
 }
 .der{
     width: 80%;
@@ -42,6 +44,7 @@ body{
 }
 .special{
     list-style-image: url(../Img/chad2.png);
+    margin-bottom: 20px;
 }
 .titulo{
     text-align: center;
