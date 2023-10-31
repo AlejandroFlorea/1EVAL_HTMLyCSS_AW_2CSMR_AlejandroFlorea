@@ -30,7 +30,7 @@ body{
     border-right: 3px solid black;
     background-color: #B1D877;
 }
-.soporte{
+.enlace{
     color: aliceblue;
     text-decoration: none;
     font-size: 20px;
@@ -42,7 +42,7 @@ body{
     height: 100%;
     background-color: #8CDCDA;
 }
-.special{
+.puntos{
     list-style-image: url(../Img/chad2.png);
     margin-bottom: 20px;
 }
