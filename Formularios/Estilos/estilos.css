@@ -41,7 +41,7 @@ body{
 }
 .der{
     width: 80%;
-    float: left;
+    float:left;
     padding: 15px;
     height: 100%;
     background-color: #8CDCDA;
