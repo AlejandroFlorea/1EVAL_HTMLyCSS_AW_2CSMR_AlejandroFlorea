@@ -1,1 +1,20 @@
 /*Autor: Alejandro Florea*/
+body{
+    margin: 0;
+}
+.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    background-color: #FF4500;
+    overflow: hidden;
+    width: 100%;
+}
+.datos-menu{
+    float: left;
+}
+.datos-menu a{
+    text-decoration: none;
+    padding: 20px 10px;
+    display: block;
+}
