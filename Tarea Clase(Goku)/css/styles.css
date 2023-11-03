@@ -50,3 +50,8 @@ body{
 h1{
     font-size: 600%;
 }
+@media only screen and (max-width: 800px) {
+    .goku2{
+        image-resolution: 300px 250px;
+    }
+}
