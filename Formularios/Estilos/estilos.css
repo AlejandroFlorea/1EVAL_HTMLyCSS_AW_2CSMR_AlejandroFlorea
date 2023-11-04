@@ -93,7 +93,7 @@ html, body {
     .izq{
         width: 100%;
         border-bottom: 2px solid black;
-        border-right: 0px;
+        border-right: 0px;  
     }
     .der{
         width: 100%!important;
