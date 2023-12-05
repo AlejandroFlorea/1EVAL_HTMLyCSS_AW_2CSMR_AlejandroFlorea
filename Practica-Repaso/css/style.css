@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.container{
+    margin: 0;
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+}
+nav{
+    background-color: #121867;
+    color: rgb(243,55,132);
+    padding: 20px;
+    top: 0;
+    position: -webkit-sticky;
+    position: sticky;
+    z-index: 100;
+}
+.card{
+    justify-content: center;
+    padding: 20px;
+    display: flex;
+    font-size: 20px;
+}
+footer{
+    background-color: #121867;
+    color: rgb(243,55,132);
+    padding: 20px;
+}
+.birras{
+    opacity: 0.7;
+    width: 100%;
+    position: relative;
+}
+
+.botella{
+    margin-left: 20%;
+}
+
+.parr-botella{
+    margin-right: 20%;
+    width: 40%;
+    float: right;
+}
+.parr-botella ::first-letter{
+    font-size: 30px;
+    color: #F48CEB;
+    border-right: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+.compra{
+    float: right;
+    padding: 10px;
+    background-color: aquamarine;
+    color: #F48CEB;
+    border: 2px #F48CEB solid;
+    border-radius: 20px;
+    margin-right: 20%;
+    margin-top: -40%;
+    position: relative;
+}
+.boton-compra{
+    width: 85px;
+    height: auto;
+    background-color: black;
+    border-radius: 10px;
+    margin-left: 20%;
+}
+.subtitulo{
+    font-size: 300%;
+    text-align: center;
+    color: #070d57;
+    padding-bottom:30px ;
+}
+.subtitulo2{
+    color: #070d66;
+}
+hr{
+    border: 3px #F48CEB solid;
+    width: 300px;
+    justify-content: center;
+}
+.redes{
+    float: right;
+}
